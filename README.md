@@ -1,4 +1,8 @@
 # bomberman_svg
-Bomberman in SVG, in less than 5kb.
+Bomberman with SVG, in less than 5kb.
 
-Next up I want to create a bomb next to him, and animate both :)
+### Ideas for other things
+* Add defs for different colour types of Bomberman
+* Create a bomb next to Bomberman
+* Angry Bomberman eyes
+* Animate! :)
