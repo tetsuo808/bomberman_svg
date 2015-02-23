@@ -1,0 +1,15 @@
+body {
+text-align:center;
+margin:0;
+background:#3daf3d url(../img/bg.png);
+}
+#svg1 {
+width:300px;height:auto;
+padding:50px;
+}
+	/*#rect2985 {fill:green;}*/
+img {
+width:300px;
+padding:50px;
+background:#666;
+}
